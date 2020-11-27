@@ -12,12 +12,12 @@ I compare the performance of the pre-train LayoutLM on IIT-CDIP dataset (version
 Model | F1_Score | Precision | Recall
 --- | --- | --- | --- |
 LayoutLM Large| **0.9562** |  **0.9577** |  **0.9546** | 
-Bert Large | **0.0.9474** |  **0.9466** |  **0.9481** | 
+Bert Large | **0.9474** |  **0.9466** |  **0.9481** | 
 
 ## Test Set
 Model | F1_Score | Precision | Recall
 --- | --- | --- | --- |
-LayoutLM Large| **0.0.9843** |  **0.9845** |  **0.9841** | 
+LayoutLM Large| **0.9843** |  **0.9845** |  **0.9841** | 
 Bert Large | **0.9859** |  **0.9861** |  **0.9856** | 
 
 In the validation set, Layoutlm outperformed Bert, but it is not the case in the test set. I need to do more
