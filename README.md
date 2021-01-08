@@ -30,11 +30,13 @@ I am using the Layoutlm Large, files of the pre-trained model can be found on th
 [OneDrive](https://1drv.ms/u/s!ApPZx_TWwibInSy2nj7YabBsTWNa?e=p4LQo1) /
 [GoogleDrive](https://drive.google.com/open?id=1tatUuWVuNUxsP02smZCbB5NspyGo7g2g) \
 Other ressources can be found on the original repository : [Official Layoutlm](https://github.com/microsoft/unilm/tree/master/layoutlm)
-#TODO
+
+##TODO
 I will soon put a script for the training, otherwise you can always check my notebooks. \
 I will also give more details about the dataset, the notebook's structure ...
  
 
+##  References
 [1] Yiheng Xu and Minghao Li and Lei Cui and Shaohan Huang and Furu Wei and Ming Zhou (2019) ,
     LayoutLM: Pre-training of Text and Layout for Document Image Understanding (https://arxiv.org/abs/1912.13318),
     https://github.com/microsoft/unilm/tree/master/layoutlm
